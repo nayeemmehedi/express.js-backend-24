@@ -9,7 +9,7 @@ const funcName = require("func-name")
 
 module.exports = {
     funcName1,
-    funcName2
+    funcName2Babbar
 }
 
 // es6

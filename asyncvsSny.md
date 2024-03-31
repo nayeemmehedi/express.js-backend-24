@@ -1,0 +1,1 @@
+clrt k + only  v press - to preview md
